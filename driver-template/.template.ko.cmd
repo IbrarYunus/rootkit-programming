@@ -1,0 +1,1 @@
+cmd_/home/ibrar/git-repos/rootkit-programming/driver-template/template.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/ibrar/git-repos/rootkit-programming/driver-template/template.ko /home/ibrar/git-repos/rootkit-programming/driver-template/template.o /home/ibrar/git-repos/rootkit-programming/driver-template/template.mod.o ;  true
